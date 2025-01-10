@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="com.fasterxml.jackson.databind">
-    <CLASSES>
-      <root url="jar://$USER_HOME$/Downloads/com.fasterxml.jackson.databind.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
